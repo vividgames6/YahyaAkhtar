@@ -1,7 +1,7 @@
 
 {
     "FirstGameBundleID":"com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.vividdgames.fearless.real.racing.extreme.car.fight"
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.vividdgames.fearless.real.racing.extreme.car.fight",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure"
 }
 
