@@ -1,0 +1,12 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.extreme.simulator.monster.truck.jam.derby.destruction.mad.truck.driving.monster.legends",
+      "ShowAdsFlag": true
+    },
+    {
+      "BundleId": "com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
+      "ShowAdsFlag": true 
+    }    
+  ]
+}
