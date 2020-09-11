@@ -2,11 +2,13 @@
   "AdIds": [
     {
       "BundleId": "com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
-      "ShowAdsFlag": true
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false
     },
     {
       "BundleId": "com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
-      "ShowAdsFlag": true 
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false
     }    
   ]
 }
