@@ -7,8 +7,8 @@
     },
     {
       "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false
     }    
   ]
 }
