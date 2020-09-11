@@ -6,8 +6,8 @@
       "ShowCustomNativeAdsFlag": false
     },
     {
-      "BundleId": "com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure2",
-      "ShowAdsFlag": true,
+      "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
+      "ShowAdsFlag": false,
       "ShowCustomNativeAdsFlag": false
     }    
   ]
