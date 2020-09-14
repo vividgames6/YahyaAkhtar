@@ -9,6 +9,11 @@
       "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
       "ShowAdsFlag": false,
       "ShowCustomNativeAdsFlag": false
+    },
+    {
+      "BundleId": "com.vividdgames.modern.tractor.farming.simulator",
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false
     }    
   ]
 }
