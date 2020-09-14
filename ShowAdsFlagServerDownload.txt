@@ -12,8 +12,8 @@
     },
     {
       "BundleId": "com.vividdgames.modern.tractor.farming.simulator",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowAdsFlag": false,
+      "ShowCustomNativeAdsFlag": false
     }    
   ]
 }
