@@ -19,6 +19,11 @@
       "BundleId": "com.vividdgames.eurotruck.vs.monstertruck.stunts.car.derby.fearless.crash.demolition",
       "ShowAdsFlag": false,
       "ShowCustomNativeAdsFlag": false
-    }        
+    },
+    {
+      "BundleId": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
+    }             
   ]
 }
