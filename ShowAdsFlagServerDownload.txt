@@ -22,8 +22,8 @@
     },
     {
       "BundleId": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
-      "ShowAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true
     }             
   ]
 }
