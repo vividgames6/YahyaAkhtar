@@ -31,7 +31,8 @@
     {
       "BundleId": "com.vividdgames.atv.quad.bike.racing.stunts.battleground.impossible.tracks.bike.ramp.mania.megaramp",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }      
   ]
 }
