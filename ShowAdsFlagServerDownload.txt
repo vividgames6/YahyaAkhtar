@@ -38,7 +38,7 @@
       "BundleId": "com.vividdgames.formula.car.parking.modern.car.parking",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "0.9"
+      "BundleVersionCode": "1.0"
     }
   ]
 }
