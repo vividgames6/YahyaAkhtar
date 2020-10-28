@@ -4,7 +4,7 @@
       "BundleId": "com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "2.1"
+      "BundleVersionCode": "1.9"
     },
     {
       "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
@@ -26,7 +26,7 @@
       "BundleId": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "2.0"
+      "BundleVersionCode": "2.1"
     },
     {
       "BundleId": "com.vividdgames.atv.quad.bike.racing.stunts.battleground.impossible.tracks.bike.ramp.mania.megaramp",
