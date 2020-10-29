@@ -44,7 +44,7 @@
       "BundleId": "com.vividdgames.formula.car.stunt.gtracing.gt.extreme.racing.ramp.impossible.motor.moto.carrace",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.1"
     }
   ]
 }
