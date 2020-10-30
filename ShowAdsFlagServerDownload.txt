@@ -15,7 +15,8 @@
     {
       "BundleId": "com.vividdgames.modern.tractor.farming.simulator",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.03"
     },
     {
       "BundleId": "com.vividdgames.eurotruck.vs.monstertruck.stunts.car.derby.fearless.crash.demolition",
