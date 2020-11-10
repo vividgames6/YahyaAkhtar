@@ -27,7 +27,7 @@
       "BundleId": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "2.1"
+      "BundleVersionCode": "2.2"
     },
     {
       "BundleId": "com.vividdgames.atv.quad.bike.racing.stunts.battleground.impossible.tracks.bike.ramp.mania.megaramp",
@@ -45,7 +45,7 @@
       "BundleId": "com.vividdgames.formula.car.stunt.gtracing.gt.extreme.racing.ramp.impossible.motor.moto.carrace",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     }
   ]
 }
