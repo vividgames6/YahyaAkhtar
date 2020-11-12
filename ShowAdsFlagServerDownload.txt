@@ -27,7 +27,7 @@
       "BundleId": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "2.2"
+      "BundleVersionCode": "2.1"
     },
     {
       "BundleId": "com.vividdgames.atv.quad.bike.racing.stunts.battleground.impossible.tracks.bike.ramp.mania.megaramp",
