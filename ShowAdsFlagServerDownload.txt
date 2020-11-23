@@ -51,7 +51,7 @@
       "BundleId": "com.vividdgames.offroad.jeep.hill.driving.mountain.jeephillclimb.offroad4x4pradojeep2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.0"
+      "BundleVersionCode": "1.1"
     }
   ]
 }
