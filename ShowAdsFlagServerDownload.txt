@@ -69,7 +69,7 @@
       "BundleId": "com.vividdgames.bus.monster.truck.derby.crash.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "2.0"
+      "BundleVersionCode": "1.3"
     }
   ]
 }
