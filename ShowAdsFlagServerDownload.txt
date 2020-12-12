@@ -8,7 +8,7 @@
     },
     {
       "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
-      "ShowAdsFlag": true,
+      "ShowAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.93"
     },
