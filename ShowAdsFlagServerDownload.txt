@@ -70,6 +70,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.4"
+    },
+    {
+      "BundleId": "com.fungamesproduction.ball.robot.transform.game.shooting.transform.robotwar",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
