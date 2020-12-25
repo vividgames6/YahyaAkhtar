@@ -76,6 +76,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.0"
+    },
+    {
+      "BundleId": "com.vividdgames.monster.truck.stunts.car.atv.quad.bike.megaramp.tracks4x4.racing.impossible.destruction.shootinggame2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
