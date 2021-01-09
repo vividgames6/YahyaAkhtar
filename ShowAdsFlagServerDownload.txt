@@ -4,7 +4,7 @@
       "BundleId": "com.vividdgames.monstertruckfighter.crash.fearlessstunts.fighting.adventure",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.9"
+      "BundleVersionCode": "2.0"
     },
     {
       "BundleId": "com.vividdgames.monster.stunts.car.derby.fearless.crash.impoosible",
