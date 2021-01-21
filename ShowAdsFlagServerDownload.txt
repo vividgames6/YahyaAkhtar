@@ -88,6 +88,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.fungamesproduction.offroad.truck.project.jeep.simulator.truckdrive.suv.mountain.climb",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
     }
   ]
 }
