@@ -100,6 +100,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.2"
+    },
+    {
+      "BundleId": "com.fungamesproduction.busderby2021.derby.demolition.monster.bus.destruction.battle.stunts.arena.fight",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
