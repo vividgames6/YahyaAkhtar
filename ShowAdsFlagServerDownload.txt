@@ -112,6 +112,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.4"
+    },
+    {
+      "BundleId": "com.vividdgames.offroad.monster.truck4x4.police.jeep.stunt.racing",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.6"
     }
   ]
 }
