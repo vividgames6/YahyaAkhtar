@@ -118,6 +118,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.6"
+    },
+    {
+      "BundleId": "com.vividdgames.tractor.stunts.megaramp.race.stuntmania.extreme.impossible",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.0"
     }
   ]
 }
