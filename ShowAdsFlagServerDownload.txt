@@ -46,7 +46,7 @@
       "BundleId": "com.vividdgames.formula.car.stunt.gtracing.gt.extreme.racing.ramp.impossible.motor.moto.carrace",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "BundleVersionCode": "1.1"
     },
     {
       "BundleId": "com.vividdgames.offroad.jeep.hill.driving.mountain.jeephillclimb.offroad4x4pradojeep2020",
