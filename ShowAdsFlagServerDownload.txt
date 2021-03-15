@@ -34,7 +34,7 @@
       "BundleId": "com.vividdgames.atv.quad.bike.racing.stunts.battleground.impossible.tracks.bike.ramp.mania.megaramp",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "BundleVersionCode": "1.3"
     },
     {
       "BundleId": "com.vividdgames.formula.car.parking.modern.car.parking",
