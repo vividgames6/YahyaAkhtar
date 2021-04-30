@@ -64,7 +64,7 @@
       "BundleId": "com.vividdgames.shopping.mall.taxi.driving.wintershopping.taximallgame.citytaxigame.parkingcar.supermarkettaxi",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.3"
+      "BundleVersionCode": "1.4"
     },
     {
       "BundleId": "com.vividdgames.bus.monster.truck.derby.crash.stunts",
