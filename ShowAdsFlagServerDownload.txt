@@ -143,6 +143,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.fungamesproduction.atvderby.demolition.atv4x4.monsteratv.demolitionderby.derbygames.derbycup.quadebikederby",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
