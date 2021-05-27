@@ -155,6 +155,12 @@
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "BundleVersionCode": "1.1"
+    },
+    {
+      "BundleId": "com.fungamesproduction.monstertruck.demolitionderby.destruction.madtruck.crash.fearless.derby2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "BundleVersionCode": "1.1"
     }
   ]
 }
