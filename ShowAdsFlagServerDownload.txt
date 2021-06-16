@@ -55,12 +55,6 @@
       "BundleVersionCode": "1.3"
     },
     {
-      "BundleId": "com.vividdgames.monster.truck.jam.driving.madtruck.fearlessstunts.legends.demolition.derby.crashstunts.arena.battle",
-      "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
-    },
-    {
       "BundleId": "com.vividdgames.shopping.mall.taxi.driving.wintershopping.taximallgame.citytaxigame.parkingcar.supermarkettaxi",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
