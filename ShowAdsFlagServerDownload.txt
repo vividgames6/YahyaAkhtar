@@ -64,7 +64,7 @@
       "BundleId": "com.vividdgames.bus.monster.truck.derby.crash.stunts",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "BundleVersionCode": "1.5"
     },
     {
       "BundleId": "com.fungamesproduction.ball.robot.transform.game.shooting.transform.robotwar",
