@@ -160,7 +160,7 @@
       "BundleId": "com.vividdgames.monster.truck.jam.driving.madtruck.fearlessstunts.legends.demolition.derby.crashstunts.arena.battle",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "BundleVersionCode": "2.0"
     }
   ]
 }
