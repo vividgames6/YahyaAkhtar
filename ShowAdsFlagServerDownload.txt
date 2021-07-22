@@ -124,7 +124,7 @@
       "BundleId": "com.vividgames.real.tractor.demolition.derby.farm.fight.games2021",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.vividdgames.extreme.tricky.bike.racing3d.trials.stunt.master2021",
