@@ -142,7 +142,7 @@
       "BundleId": "com.fungamesproduction.atvderby.demolition.atv4x4.monsteratv.demolitionderby.derbygames.derbycup.quadebikederby",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.1"
+      "BundleVersionCode": "1.2"
     },
     {
       "BundleId": "com.vividdgames.spider.wheel.car.robotgame.dronerobot.fight.game2021",
